@@ -1,36 +1,75 @@
 # D0cCtor's Claims
 
-Mod privado para Minecraft/NeoForge 1.21.1.
+D0cCtor's Claims is a Minecraft NeoForge mod for server-side land protection.
 
-Sistema de claims con:
+## Features
 
-- Nexo de Protección
-- Energía del Vacío como combustible
-- Fragmento del Núcleo para expansión
-- protección de romper/poner bloques en claims activos
-- cofres e interacción libre
-- PvP activo
-- TNT bloqueada dentro de claims activos
-- sistema de miembros
-- GUI propia
-- regeneración del núcleo
+- Claim core system.
+- Fuel-based protection using Void Energy.
+- Upgrade system using Core Fragments.
+- Custom claim core entity and GUI.
+- Owner and trusted member management.
+- Block placing and breaking protection inside active claims.
+- Chests and containers remain accessible.
+- PvP remains enabled.
+- TNT block damage protection inside active claims.
+- Claim core health and regeneration system.
+- Player and admin commands.
 
-## Compilar
+## Minecraft Version
+
+```txt
+Minecraft: 1.21.1
+NeoForge: 21.1.121
+```
+
+## Mod Info
+
+```txt
+Mod ID: d0cctors_claims
+Display Name: D0cCtor's Claims
+Version: 0.3.5
+```
+
+## Main Items
+
+```txt
+d0cctors_claims:claim_core
+d0cctors_claims:combustible_del_ciclo
+d0cctors_claims:fragmento_expansion
+```
+
+## Player Commands
+
+```txt
+/claim info
+/claim list
+/claim here
+/claim preview
+/claim trust <player>
+/claim untrust <player>
+/claim remove
+```
+
+## Admin Commands
+
+```txt
+/claim setfuel <hours>
+/claim testmode
+```
+
+## Build
 
 ```powershell
 gradle clean build
 ```
 
-El `.jar` compilado queda en:
+The compiled `.jar` will be generated in:
 
 ```txt
 build/libs/
 ```
 
-## Versión base
+## Notes
 
-```txt
-D0cCtor's Claims 0.3.5
-Minecraft 1.21.1
-NeoForge 21.1.121
-```
+This mod is designed for a custom private server environment.

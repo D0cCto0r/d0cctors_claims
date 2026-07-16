@@ -1,0 +1,11 @@
+{
+  "block.d0cctors_claims.claim_core": "Protection Nexus",
+  "item.d0cctors_claims.claim_core": "Protection Nexus",
+  "entity.d0cctors_claims.claim_core_entity": "Protection Nexus",
+  "item.d0cctors_claims.combustible_del_ciclo": "Void Energy",
+  "item.d0cctors_claims.combustible_del_ciclo.lore1": "Temporal charge that keeps the nexus active.",
+  "item.d0cctors_claims.combustible_del_ciclo.lore2": "Without energy, the nexus stops protecting blocks.",
+  "item.d0cctors_claims.fragmento_expansion": "Core Fragment",
+  "item.d0cctors_claims.fragmento_expansion.lore1": "Unstable material used to expand the nexus.",
+  "item.d0cctors_claims.fragmento_expansion.lore2": "Use it on the nexus to increase its radius."
+}

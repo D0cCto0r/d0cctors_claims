@@ -1,0 +1,11 @@
+{
+  "block.d0cctors_claims.claim_core": "Nexo de Protección",
+  "item.d0cctors_claims.claim_core": "Nexo de Protección",
+  "entity.d0cctors_claims.claim_core_entity": "Nexo de Protección",
+  "item.d0cctors_claims.combustible_del_ciclo": "Energía del Vacío",
+  "item.d0cctors_claims.combustible_del_ciclo.lore1": "Carga temporal para mantener activo el nexo.",
+  "item.d0cctors_claims.combustible_del_ciclo.lore2": "Sin energía, el nexo deja de proteger bloques.",
+  "item.d0cctors_claims.fragmento_expansion": "Fragmento del Núcleo",
+  "item.d0cctors_claims.fragmento_expansion.lore1": "Material inestable usado para expandir el nexo.",
+  "item.d0cctors_claims.fragmento_expansion.lore2": "Úsalo en el nexo para aumentar su radio."
+}

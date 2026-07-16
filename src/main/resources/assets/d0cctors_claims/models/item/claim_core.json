@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "d0cctors_claims:item/claim_core"
+  }
+}

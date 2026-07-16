@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "d0cctors_claims:block/claim_core" }
+  }
+}
